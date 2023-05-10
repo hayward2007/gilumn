@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "141123971544",
+    "project_id": "gilumn",
+    "storage_bucket": "gilumn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141123971544:android:951ab9ac4da45561b3eaad",
+        "android_client_info": {
+          "package_name": "com.example.gilumn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141123971544-64l4he7ub94ha453btas5h17r3dc4f8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA98BMhUOuxdVdwtbfOj3NxlNcfzWSmPbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141123971544-64l4he7ub94ha453btas5h17r3dc4f8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141123971544-krm49o62icnc1kmauep722fdbbc6ueqs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gilumn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
